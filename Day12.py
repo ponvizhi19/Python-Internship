@@ -1,4 +1,4 @@
-# Python-Internship
+
 import json
 from pymongo import MongoClient
 
